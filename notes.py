@@ -15,6 +15,7 @@ name = "Chuck"
 number = 100
 newNumber = "100"
 
+print("hello")
 print(number/2)
 #casting
 print(int(newNumber)/2)
